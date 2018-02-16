@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Manpreet ist Inder
+=======
+test
+>>>>>>> aeb17d7ebcfa1aab3bdc94449f7220e1c71e6171
